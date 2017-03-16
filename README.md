@@ -1,5 +1,4 @@
 # Arduino-UART / LDT 
-### author: Ken Figueiredo
 
 This set of code should be pretty straightforward and easy to follow (hopefully).
 The basis of it is that both microcontoller are in an off state until they get a connection on their
