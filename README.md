@@ -1,7 +1,6 @@
 # Arduino-UART / LDT 
 
-This set of code should be pretty straightforward and easy to follow (hopefully).
-The basis of it is that both microcontoller are in an off state until they get a connection on their
+The basis of this set of code is that both microcontoller are in an off state until they get a connection on their
 COM port. Each board deviates after that point.
 
 	- Transmitter: Blocks until the Serial Buffer is not empty. Once it has something (from the PC),
